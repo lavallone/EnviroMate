@@ -5,6 +5,8 @@ Project for the **H**uman **R**obot **I**nteraction and **R**easoning **A**gents
 
 >**EnviroMate** is a social robot which aims to raise awareness among students about recycling. It can interact both with primary school students and secondary school students. With the former it can play a *game* with an educational purpose, and with the latter, it can inform them by showing some *news* from the web about the argument. For students of all types the robot can also, if requested, show the way to dispose of waste into the correct bin (plastic, paper, waste and organic waste) when the item is exhibited by the user.
 
+![demo](https://github.com/lavallone/EnviroMate/raw/main/assets/demo.gif)
+
 * **docker** folder contains the scripts to *build* and *run* the ***pepper-hri*** image.
   ```
   cd docker/
